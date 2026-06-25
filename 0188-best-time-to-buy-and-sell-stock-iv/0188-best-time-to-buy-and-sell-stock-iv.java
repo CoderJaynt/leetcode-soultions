@@ -5,23 +5,30 @@ class Solution {
         
         int n = prices.length;
 
-        dp = new int[n+1][2][k+1];
+        dp = new int[n][2][k+1];
 
-        for(int idx = n-1 ; idx>=0 ; idx--){
-            for(int buy = 0 ; buy<=1 ; buy++){
-                for(int t = 1 ; t<=k ; t++){
-
-                    if(buy == 1){
-                        dp[idx][buy][t] = Math.max(-prices[idx] + dp[idx+1][0][t], dp[idx+1][1][t]);
-                    }else{
-                        dp[idx][buy][t] = Math.max(prices[idx] + dp[idx+1][1][t-1], dp[idx+1][0][t]);
-                    }
-
-                }
+        for(int[][] x: dp){
+            for(int[] a: x){
+                Arrays.fill(a, -1);
             }
-        }        
+        }
 
-        return dp[0][1][k];
+        return helper(0, k, 1, prices);
     }
 
+    public int helper(int idx, int k, int buy, int[] prices){
+        if(idx == prices.length) return 0;
+
+        if(k == 0) return 0;
+
+        if(dp[idx][buy][k] != -1) return dp[idx][buy][k];
+
+        if(buy == 1){
+            dp[idx][buy][k] = Math.max(-prices[idx] + helper(idx+1, k, 0, prices), helper(idx+1, k, 1, prices));
+        }else{
+            dp[idx][buy][k] = Math.max(prices[idx] + helper(idx+1, k-1, 1, prices), helper(idx+1, k, 0, prices));
+        }
+
+        return dp[idx][buy][k];
+    }
 }
