@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0173-binary-search-tree-iterator) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
