@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Sorting
+|  |
+| ------- |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 <!---LeetCode Topics End-->
