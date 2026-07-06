@@ -1,23 +1,5 @@
 class Solution {
     int[][] dp;
-    public int helper(int i, int j, int[] arr){
-        if(i > j) return 0;
-
-        if(dp[i][j] !=  -1) return dp[i][j];
-
-        int ans = Integer.MIN_VALUE;
-
-        for(int idx = i ; idx<=j ; idx++){
-            int cost = arr[i-1] * arr[idx] * arr[j+1] + helper(i, idx-1, arr) + helper(idx+1, j, arr);
-
-            ans = Math.max(ans, cost);
-        }
-
-        dp[i][j] = ans;
-
-        return dp[i][j];
-    }
-
     public int maxCoins(int[] nums) {
         int n = nums.length;
 
@@ -33,9 +15,25 @@ class Solution {
         dp = new int[n+2][n+2];
 
         for(int[] x: dp){
-            Arrays.fill(x, -1);
+            Arrays.fill(x, 0);
+        }
+        
+
+        for(int i = arr.length-2 ; i>=1 ; i--){
+            for(int j = 1 ; j<arr.length-1 ; j++){
+                int ans = 0;
+                
+
+                for(int idx = i ; idx<=j ; idx++){
+                    int cost = arr[i-1] * arr[idx] * arr[j+1] + dp[i][idx-1] + dp[idx+1][j];
+
+                    ans = Math.max(ans, cost);
+                }
+
+                dp[i][j] = ans;
+            }
         }
 
-        return helper(1, arr.length-2, arr);
+        return dp[1][arr.length-2];
     }
 }
