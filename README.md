@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0312-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
@@ -117,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
 <!---LeetCode Topics End-->
