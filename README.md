@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0312-burst-balloons) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 | [1043-partition-array-for-maximum-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0173-binary-search-tree-iterator) |
+| [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 ## Design
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
+| [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 ## Linked List
 |  |
 | ------- |
