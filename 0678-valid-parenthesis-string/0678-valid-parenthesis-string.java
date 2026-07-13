@@ -1,37 +1,27 @@
 class Solution {
-    Boolean[][] dp;
-    public boolean helper(int idx, int cnt, String s){
-        if(cnt<0) return false;
-        if(idx == s.length()){
-            if(cnt == 0){
-                return true;
-            }else{
-                return false;
-            }
-        }
-
-        if(dp[idx][cnt] != null) return dp[idx][cnt];
-
-        char c = s.charAt(idx);
-
-        if(c == '('){
-            dp[idx][cnt] = helper(idx+1, cnt+1, s);
-        }
-
-        else if(c == ')'){
-            dp[idx][cnt] = helper(idx+1, cnt-1, s);
-        }else{        
-
-            dp[idx][cnt] = helper(idx+1, cnt+1, s) || helper(idx+1, cnt-1, s) || helper(idx+1, cnt, s);
-        }
-
-        return dp[idx][cnt];
-    }
     public boolean checkValidString(String s) {
-        int n = s.length();
+        int min = 0;
+        int max = 0;
 
-        dp = new Boolean[n][n+1];
+        for(int i = 0 ; i<s.length() ; i++){
+            char c = s.charAt(i);
 
-        return helper(0, 0, s);
+            if(c == '('){
+                min += 1;
+                max += 1;
+            }else if(c == ')'){
+                min -= 1;
+                max -= 1;
+            }else{
+                min -= 1;
+                max += 1;
+            }
+
+            if(min < 0) min = 0;
+
+            if(max < 0) return false;
+        }
+
+        return min == 0 ? true : false;
     }
 }
