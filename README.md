@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0055-jump-game) |
 | [0090-subsets-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
