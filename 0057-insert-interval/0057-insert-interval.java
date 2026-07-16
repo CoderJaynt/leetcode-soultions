@@ -1,15 +1,13 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int n = intervals.length;
+        int i = 0;
 
         List<int[]> res = new ArrayList<>();
 
-        int i = 0;
-
-        // Left
         while(i<n && intervals[i][1] < newInterval[0]){
             res.add(intervals[i]);
-            i ++;
+            i++;
         }
 
         while(i<n && intervals[i][0] <= newInterval[1]){
