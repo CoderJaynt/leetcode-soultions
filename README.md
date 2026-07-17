@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0090-subsets-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0135-candy) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 ## Design
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1148-article-views-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1148-article-views-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1683-invalid-tweets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
