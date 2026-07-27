@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0069-sqrtx) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1004-max-consecutive-ones-iii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0069-sqrtx) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
