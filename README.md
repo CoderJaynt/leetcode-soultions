@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
 |  |
 | ------- |
@@ -236,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3499-maximize-active-section-with-trade-i) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
