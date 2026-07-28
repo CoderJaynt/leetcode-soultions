@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0704-binary-search](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0704-binary-search) |
 | [0846-hand-of-straights](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0846-hand-of-straights) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0846-hand-of-straights](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0846-hand-of-straights) |
 | [1331-rank-transform-of-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0069-sqrtx) |
+| [0628-maximum-product-of-three-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
