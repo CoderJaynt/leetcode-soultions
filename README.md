@@ -51,12 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
+| [3310-remove-methods-from-project](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0802-find-eventual-safe-states) |
+| [3310-remove-methods-from-project](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3310-remove-methods-from-project) |
 ## Topological Sort
 |  |
 | ------- |
