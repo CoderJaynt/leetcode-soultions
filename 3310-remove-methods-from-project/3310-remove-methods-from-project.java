@@ -1,49 +1,50 @@
 class Solution {
-
-    void dfs(int node, HashMap<Integer, ArrayList<Integer>> invoke, int[] vis) {
+    public void dfs(int node, List<List<Integer>> adj, int[] vis){
         vis[node] = 1;
 
-        if (!invoke.containsKey(node))
-            return;
-
-        for (int it : invoke.get(node)) {
-            if (vis[it] == 0) {
-                dfs(it, invoke, vis);
+        for(int nxt: adj.get(node)){
+            if(vis[nxt] == 0){
+                dfs(nxt, adj, vis);
             }
         }
     }
-
     public List<Integer> remainingMethods(int n, int k, int[][] invocations) {
-        HashMap<Integer, ArrayList<Integer>> invoke = new HashMap<>();
+        List<List<Integer>> adj = new ArrayList<>();
 
-        for (int[] it : invocations) {
-            int u = it[0];
-            int v = it[1];
+        for(int i = 0 ; i<n ; i++){
+            adj.add(new ArrayList<>());
+        }
 
-            invoke.computeIfAbsent(u, x -> new ArrayList<>()).add(v);
+        for(int[] edge : invocations){
+            adj.get(edge[0]).add(edge[1]);
         }
 
         int[] vis = new int[n];
-        dfs(k, invoke, vis);
+        dfs(k, adj, vis);
 
-        List<Integer> rem = new ArrayList<>();
+        for(int[] edge: invocations){
+            int u = edge[0];
+            int v = edge[1];
 
-        for (int[] it : invocations) {
-            int u = it[0];
-            int v = it[1];
+            if(vis[u] == 0 && vis[v] == 1){
+                List<Integer> ans = new ArrayList<>();
 
-            if (vis[u] == 0 && vis[v] == 1) {
-                for (int i = 0; i < n; i++)
-                    rem.add(i);
-                return rem;
+                for(int i=0 ; i<n ; i++){
+                    ans.add(i);
+                }
+
+                return ans;
             }
         }
 
-        for (int i = 0; i < n; i++) {
-            if (vis[i] == 0)
-                rem.add(i);
+        List<Integer> ans = new ArrayList<>();
+
+        for(int i = 0; i<n ; i++){
+            if(vis[i] == 0){
+                ans.add(i);
+            }
         }
 
-        return rem;
+        return ans;
     }
 }
