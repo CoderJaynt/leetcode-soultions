@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1406-stone-game-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1406-stone-game-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0061-rotate-list) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Tree
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
