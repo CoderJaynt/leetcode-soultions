@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0877-stone-game) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0062-unique-paths) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Game Theory
 |  |
