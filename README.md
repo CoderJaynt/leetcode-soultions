@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0577-employee-bonus) |
