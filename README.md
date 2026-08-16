@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -303,12 +307,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0877-stone-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1406-stone-game-iii) |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
