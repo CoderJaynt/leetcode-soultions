@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1260-shift-2d-grid) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Enumeration
 |  |
 | ------- |
