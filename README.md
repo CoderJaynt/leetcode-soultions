@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0904-fruit-into-baskets) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0132-palindrome-partitioning-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0132-palindrome-partitioning-ii) |
 | [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0904-fruit-into-baskets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
