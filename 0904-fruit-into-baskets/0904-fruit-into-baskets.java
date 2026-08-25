@@ -1,35 +1,41 @@
 class Solution {
     public int totalFruit(int[] fruits) {
-        int l = 0, r=0, maxLen = 0, type1 = -1, type2 = -1, last1 = -1, last2 = -1;
+        int t1 = -1, t2 = -1, l1 = -1, l2 = -1, l = 0, r = 0;
+
+        int maxLen = 0;
 
         int n = fruits.length;
 
-        while(r<n){
+        while(n>r){
             int f = fruits[r];
 
-            if(f == type1){
-                last1 = r;
-            }else if(f == type2){
-                last2 = r;
-            }else if(type1 == -1){
-                type1 = f;
-                last1 = r;
-            }else if(type2 == -1){
-                type2 = f;
-                last2 = r;
+            if(f == t1){
+                l1 = r;
+            }else if(f == t2){
+                l2 = r;
+            }else if(t1 == -1){
+                t1 = f;
+                l1 = r;
+            }else if(t2 == -1){
+                t2 = f;
+                l2 = r;
             }else{
-                if(last1<last2){
-                    l = last1+1;
-                    last1 = r;
-                    type1 = f;
+                if(l2 > l1){
+                    l = l1 +1;
+                    l1 = r;
+                    t1 = f;
+                    
                 }else{
-                    l = last2+1;
-                    last2 = r;
-                    type2 = f;
+                    l = l2+1;
+                    l2 = r;
+                    t2 = f;
                 }
             }
 
-            maxLen = Math.max(maxLen, r-l+1);
+            int len = r-l+1;
+
+            maxLen = Math.max(maxLen, len);
+
             r++;
         }
 
