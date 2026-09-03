@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0424-longest-repeating-character-replacement) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0283-move-zeroes](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0160-intersection-of-two-linked-lists) |
 ## Divide and Conquer
 |  |
 | ------- |
