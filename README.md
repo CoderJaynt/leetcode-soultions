@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0173-binary-search-tree-iterator](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Design
 |  |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0678-valid-parenthesis-string) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
