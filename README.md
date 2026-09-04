@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0802-find-eventual-safe-states](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0802-find-eventual-safe-states) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0435-non-overlapping-intervals) |
 | [0518-coin-change-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -364,4 +367,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0169-majority-element) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
