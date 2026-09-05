@@ -21,7 +21,6 @@ class Solution {
         TreeNode cur = root;
 
         while(cur != null || !st.isEmpty()){
-            
             while(cur != null){
                 st.push(cur);
                 cur = cur.left;
@@ -31,11 +30,9 @@ class Solution {
             ans.add(cur.val);
 
             cur = cur.right;
-
         }
 
         return ans;
-
 
     }
 }
