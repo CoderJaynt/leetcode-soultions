@@ -4,14 +4,20 @@ class Solution {
             return 0;
         }
         
-        int ans = 0;
+        long ans = 0;
 
-        for(int i = n ; i>=1000 ; i--){
-            int cnt = String.valueOf(i).length();
+        long start = 1000;
+        int commas = 1;
 
-            ans += ((cnt-1)/3);
+        while(start <= n){
+            long end = Math.min((long)n, start*1000-1);
+
+            ans += ((end - start + 1)*commas);
+
+            start *= 1000;
+            commas++;
         }
 
-        return ans;
+        return (int)ans;
     }
 }
