@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -344,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Counting Sort
 |  |
@@ -397,4 +400,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1143-longest-common-subsequence) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
