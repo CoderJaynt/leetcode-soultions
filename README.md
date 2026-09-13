@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1260-shift-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1631-path-with-minimum-effort) |
+| [2965-find-missing-and-repeated-values](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
+| [2965-find-missing-and-repeated-values](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3348-smallest-divisible-digit-product-ii) |
