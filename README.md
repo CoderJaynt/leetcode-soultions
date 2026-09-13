@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0061-rotate-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0206-reverse-linked-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0206-reverse-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -414,5 +415,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0206-reverse-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
