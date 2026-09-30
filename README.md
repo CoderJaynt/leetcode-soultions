@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1004-max-consecutive-ones-iii) |
 | [1043-partition-array-for-maximum-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1207-unique-number-of-occurrences) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0846-hand-of-straights](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1331-rank-transform-of-an-array) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0904-fruit-into-baskets) |
+| [0992-subarrays-with-k-different-integers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
@@ -377,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0169-majority-element) |
+| [0992-subarrays-with-k-different-integers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [2029-stone-game-ix](https://github.com/CoderJaynt/leetcode-soultions/tree/master/2029-stone-game-ix) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3005-count-elements-with-maximum-frequency) |
