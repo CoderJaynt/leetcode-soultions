@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3101-count-alternating-subarrays](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3101-count-alternating-subarrays) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/CoderJaynt/leetcode-soultions/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/CoderJaynt/leetcode-soultions/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
